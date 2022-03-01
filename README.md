@@ -1,10 +1,10 @@
 ## Vishal Kamdar
 
-## Projects
+# Projects
 
-## Skills
+# Skills
 
-## Education
+# Education
 
 You can use the [editor on GitHub](https://github.com/vishalk169/vishalk169.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
